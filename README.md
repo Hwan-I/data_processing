@@ -12,7 +12,8 @@
   * 위의 패키지 설치시 그 외 다른 패키지들은 자동으로 설치됨 (if you install these packages, you don't need to setup other packages like shapely.geometry)
   * python version : 3.7.7 
 
-### 패키지 설치방법 (package installation method) -> 아나콘다3 설치해야 함(you need to install Anaconda3)
+### 패키지 설치방법 (package installation method)
+  -> 아나콘다3 설치해야 함(you need to install Anaconda3)
 * conda create -n my_python python==3.7.7
 * conda activate my_python
 * conda install spyder
